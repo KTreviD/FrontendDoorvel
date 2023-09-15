@@ -6,8 +6,7 @@ git clone https://github.com/KTreviD/FrontendDoorvel
 yarn install
 
 # Iniciar la aplicación
-yarn dev/n
-Para acceder a la aplicacion entra a localhost:3000
+yarn dev, espera a que inicie el servidor local y para acceder a la aplicacion entra a localhost:3000
 
 # Descripción del Proyecto
 Este proyecto es una aplicación web que permite gestionar una lista de miembros de la familia y las tareas asignadas a cada miembro. Los usuarios pueden realizar las siguientes acciones:
