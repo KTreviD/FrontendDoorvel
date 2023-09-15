@@ -6,7 +6,7 @@ git clone https://github.com/KTreviD/FrontendDoorvel
 yarn install
 
 # Iniciar la aplicación
-yarn dev
+yarn dev/n
 Para acceder a la aplicacion entra a localhost:3000
 
 # Descripción del Proyecto
