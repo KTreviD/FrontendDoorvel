@@ -7,4 +7,4 @@ cd frontend-doorvel
 yarn install
 
 # Iniciar la aplicación
-yarn start
+yarn dev
