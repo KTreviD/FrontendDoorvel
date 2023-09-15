@@ -3,7 +3,7 @@
 git clone https://github.com/tu-usuario/tu-proyecto.git
 
 # Instalar dependencias
-cd frontend-doorvel
+cd frontend-doorvel ->
 yarn install
 
 # Iniciar la aplicación
